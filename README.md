@@ -1,0 +1,1 @@
+This practice consists of communicating with an OAuth2 API.
